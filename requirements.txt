@@ -1,0 +1,45 @@
+Smart Stock Analyzer – Requirements
+
+Functional Requirements:
+
+User can add stock name and price.
+
+System displays all entered stocks.
+
+System analyzes stocks using DAA algorithms:
+
+Divide & Conquer → Max Profit
+
+Heap → Top K Stocks
+
+Dijkstra → Shortest Price Path
+
+Show results in GUI output area.
+
+Handle invalid input (blank or non-numeric price).
+
+Non-Functional Requirements:
+
+Simple and user-friendly Tkinter interface.
+
+Fast execution for small datasets.
+
+Works offline, runs on any Python 3 system.
+
+Reliable and handles basic input errors.
+
+Hardware Requirements:
+
+Processor: Intel i3 or above
+
+RAM: 2 GB minimum
+
+Storage: 200 MB free space
+
+Software Requirements:
+
+OS: Windows / Linux / macOS
+
+Python: Version 3.8 or higher
+
+Libraries: Tkinter, heapq (built-in)
